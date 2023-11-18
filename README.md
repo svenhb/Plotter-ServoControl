@@ -1,7 +1,7 @@
 # Plotter-ServoControl
-Collection of Arduino sketches to control a RC-servo for pen up/down motion
-
+### Collection of Arduino sketches to control a RC-servo for pen up/down motion
 Use an Arduino-Nano (or similar) to generate a PWM signal for a RC-Servo.
+These functions should also be possible with a smaller controller (such as ATtiny44) but I was too lazy to bother with it.
 
 ### PlotterServoControl_UpDown 
 * Sets a servo position depending on input signal to predefined position 0 or 1.

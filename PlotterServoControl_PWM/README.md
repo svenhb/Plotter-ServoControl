@@ -12,7 +12,3 @@
   
 </td>
 </table>
-
-https://youtube.com/shorts/bJHGh64T_hU?si=RHr7iRYD2Ne5GwN6
-
-![image](https://github.com/svenhb/Plotter-ServoControl/assets/19973251/a6923b15-e752-4064-8564-ea3113afe6d5)

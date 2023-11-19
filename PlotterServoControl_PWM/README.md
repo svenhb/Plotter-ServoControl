@@ -1,6 +1,6 @@
 <table><tr><td>
   <a href="https://youtube.com/shorts/oEGCnoH2Gzw" trget="_blank">
-    <img src="https://github.com/svenhb/Plotter-ServoControl/assets/19973251/cb44a62a-6897-45d1-a0ba-51f509db4781" height="680">
+    <img src="https://github.com/svenhb/Plotter-ServoControl/assets/19973251/a6923b15-e752-4064-8564-ea3113afe6d5" height="680">
   </a>
 </td>
 <td>
@@ -12,3 +12,6 @@
   
 </td>
 </table>
+
+
+![image](https://github.com/svenhb/Plotter-ServoControl/assets/19973251/a6923b15-e752-4064-8564-ea3113afe6d5)
